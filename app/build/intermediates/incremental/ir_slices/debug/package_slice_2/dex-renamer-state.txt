@@ -1,0 +1,4 @@
+#Thu Oct 11 03:51:16 ADT 2018
+base.0=/home/hp/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
